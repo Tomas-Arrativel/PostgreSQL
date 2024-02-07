@@ -1,0 +1,1 @@
+ALTER TABLE sales_item drop COLUMN weekday;
